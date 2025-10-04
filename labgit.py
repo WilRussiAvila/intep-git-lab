@@ -1,1 +1,1 @@
-print("aca ensayando")
+print("aca ensayand lo de la grafica")
